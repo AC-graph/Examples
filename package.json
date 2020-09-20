@@ -1,0 +1,26 @@
+{
+  "name": "lookview-examples",
+  "version": "0.1.0",
+  "description": "基于lookview开发的一些用例，用来展示一些功能。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AC-graph/Examples.git"
+  },
+  "keywords": [
+    "lookview",
+    "image2d"
+  ],
+  "author": "心叶",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AC-graph/Examples/issues"
+  },
+  "homepage": "https://github.com/AC-graph/Examples#readme",
+  "dependencies": {
+    "lookview": "^2.0.9-beta"
+  }
+}
